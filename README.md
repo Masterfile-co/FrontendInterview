@@ -1,6 +1,6 @@
 # Getting Started with Masterfile
 
-This interview problem set has 2 items to complete. It shouldn't take more than 30-45 minutes to complete. If any of the instructions are unclear, just leave a comment with your interpratation of the problem and continue to solve from there. Once complete, please create a zip folder containing all files execpt for `node_modules` and email to garrett@masterfile.co with your `Frontend Interview - Your Name` in the subject line.
+This interview problem set has 2 items to complete. It shouldn't take more than 30-45 minutes to complete. If any of the instructions are unclear, just leave a comment with your interpretation of the problem and continue to solve from there. Once complete, please create a zip folder containing all files execpt for `node_modules` and email to garrett@masterfile.co with your `Frontend Interview - Your Name` in the subject line.
 
 All components must be functional components. You may handle the state of components any way you see fit. Feel free to add any dependencies you see fit. Don't worry about styling. Please add comments where you see fit to document your thought process for solving these problems.
 
@@ -23,7 +23,7 @@ Query Parameters:
 - rocket_name (property of rocket)
 - launch_success
 
-3. We don't want any extra data
+4. We don't want any extra data
 
 Hint:
 the first line in your query should look something like this:
